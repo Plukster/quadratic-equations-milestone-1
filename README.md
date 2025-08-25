@@ -4,11 +4,6 @@
 
 This project demonstrates solving quadratic equations with coefficients that may have formatting issues (extra spaces, missing spaces).
 
-### Project Structure
-```
-milestone_1/
-└── equations.py
-```
 
 ### What This Does
 
